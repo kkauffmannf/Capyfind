@@ -1,0 +1,15 @@
+# Core AI agent framework
+langchain
+langgraph
+langchain-groq
+
+# Image generation and processing
+pillow
+requests
+
+# Environment and UI
+python-dotenv
+streamlit
+
+# Additional utilities for agents
+pydantic
